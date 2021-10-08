@@ -1,2 +1,2 @@
 # ozon-masters-ML
-Представлены некоторые из заданий во время обучения по программе "Ozon masters": курсы машинного обучения, глубокого обучения, бизнес-аналитики.
+Some of the tasks are presented from the "Ozon masters" program: machine learning, deep learning, business analytics courses.
